@@ -11,12 +11,6 @@
       "banned": false,
       "paused": true,
       "expires_at": null
-    },
-    {
-      "uid": "11",
-      "banned": false,
-      "paused": false,
-      "expires_at": null
     }
   ]
 }
