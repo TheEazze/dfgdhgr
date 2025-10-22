@@ -17,12 +17,6 @@
       "banned": false,
       "paused": false,
       "expires_at": null
-    },
-    {
-      "uid": "mm",
-      "banned": false,
-      "paused": false,
-      "expires_at": null
     }
   ]
 }
