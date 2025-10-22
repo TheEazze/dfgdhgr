@@ -1,12 +1,6 @@
 {
   "uids": [
     {
-      "uid": "13640185935",
-      "banned": false,
-      "paused": true,
-      "expires_at": null
-    },
-    {
       "uid": "13493493146",
       "banned": false,
       "paused": false,
