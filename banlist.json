@@ -1,13 +1,13 @@
 {
   "uids": [
     {
-      "uid": "13493493146",
+      "uid": "13493496",
       "banned": false,
       "paused": false,
       "expires_at": "2025-11-01T23:59:59"
     },
     {
-      "uid": "13640185935",
+      "uid": "13640185",
       "banned": false,
       "paused": true,
       "expires_at": null
