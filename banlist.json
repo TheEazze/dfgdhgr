@@ -17,6 +17,12 @@
       "banned": false,
       "paused": false,
       "expires_at": null
+    },
+    {
+      "uid": "12345",
+      "banned": false,
+      "paused": false,
+      "expires_at": "2025-12-30"
     }
   ]
 }
