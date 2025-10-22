@@ -35,12 +35,6 @@
       "banned": false,
       "paused": false,
       "expires_at": "2025-10-26T20:38:00.909401+00:00"
-    },
-    {
-      "uid": "555",
-      "banned": false,
-      "paused": false,
-      "expires_at": "2025-10-27T20:39:30.693185+00:00"
     }
   ]
 }
