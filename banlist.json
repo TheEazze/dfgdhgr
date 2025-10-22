@@ -13,12 +13,6 @@
       "expires_at": null
     },
     {
-      "uid": "12345",
-      "banned": false,
-      "paused": false,
-      "expires_at": null
-    },
-    {
       "uid": "1222",
       "banned": false,
       "paused": false,
