@@ -9,7 +9,7 @@
     {
       "uid": "13493493146",
       "banned": false,
-      "paused": true,
+      "paused": false,
       "expires_at": null
     }
   ]
