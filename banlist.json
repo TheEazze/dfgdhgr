@@ -14,7 +14,7 @@
     },
     {
       "uid": "12345",
-      "banned": false,
+      "banned": true,
       "paused": false,
       "expires_at": null
     }
