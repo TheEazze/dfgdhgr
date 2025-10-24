@@ -35,6 +35,12 @@
       "banned": false,
       "paused": false,
       "expires_at": null
+    },
+    {
+      "uid": "1226236431",
+      "banned": false,
+      "paused": false,
+      "expires_at": "2025-11-23T17:59:00+00:00"
     }
   ]
 }
