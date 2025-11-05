@@ -173,6 +173,12 @@
       "banned": false,
       "paused": false,
       "expires_at": "2025-11-06T17:59:00+00:00"
+    },
+    {
+      "uid": "9986873397",
+      "banned": false,
+      "paused": false,
+      "expires_at": null
     }
   ]
 }
