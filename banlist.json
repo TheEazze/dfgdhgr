@@ -179,6 +179,12 @@
       "banned": false,
       "paused": false,
       "expires_at": null
+    },
+    {
+      "uid": "11562342008",
+      "banned": false,
+      "paused": false,
+      "expires_at": "2025-11-08T17:59:00+00:00"
     }
   ]
 }
