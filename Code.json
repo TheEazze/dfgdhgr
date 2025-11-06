@@ -55,11 +55,12 @@
     "aimbot_deadOffset": 752,
     "aimbot_matchOffset": 2024,
     "aimbot_knockOffset": 1552,
-    "bot0": "0x28",
-    "bot1": "0xD8",
-    "bot2": "0x90",
-    "bot3": "0xE0"
+    "bot0": "28",
+    "bot1": "D8",
+    "bot2": "90",
+    "bot3": "E0"
 }
+
 
 
 
